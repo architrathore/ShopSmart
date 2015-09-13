@@ -1,0 +1,3834 @@
+[
+    {
+        "CityName": "ahmedabad",
+        "CityId": "22"
+    },
+    {
+        "CityName": "bangalore",
+        "CityId": "23"
+    },
+    {
+        "CityName": "chandigarh",
+        "CityId": "24"
+    },
+    {
+        "CityName": "chennai",
+        "CityId": "25"
+    },
+    {
+        "CityName": "coimbatore",
+        "CityId": "26"
+    },
+    {
+        "CityName": "delhi",
+        "CityId": "27"
+    },
+    {
+        "CityName": "hyderabad",
+        "CityId": "28"
+    },
+    {
+        "CityName": "kochi",
+        "CityId": "29"
+    },
+    {
+        "CityName": "kolkata",
+        "CityId": "30"
+    },
+    {
+        "CityName": "mumbai",
+        "CityId": "31"
+    },
+    {
+        "CityName": "mysore",
+        "CityId": "32"
+    },
+    {
+        "CityName": "pune",
+        "CityId": "33"
+    },
+    {
+        "CityName": "indore",
+        "CityId": "142222"
+    },
+    {
+        "CityName": "gurgaon",
+        "CityId": "132222"
+    },
+    {
+        "CityName": "jaipur",
+        "CityId": "152222"
+    },
+    {
+        "CityName": "lucknow",
+        "CityId": "162222"
+    },
+    {
+        "CityName": "nagpur",
+        "CityId": "172222"
+    },
+    {
+        "CityName": "surat",
+        "CityId": "182222"
+    },
+    {
+        "CityName": "thane",
+        "CityId": "400601"
+    },
+    {
+        "CityName": "goa",
+        "CityId": "403108"
+    },
+    {
+        "CityName": "trichy",
+        "CityId": "620015"
+    },
+    {
+        "CityName": "vadodara",
+        "CityId": "390001"
+    },
+    {
+        "CityName": "navimumbai",
+        "CityId": "400701"
+    },
+    {
+        "CityName": "trivandrum",
+        "CityId": "695001"
+    },
+    {
+        "CityName": "noida",
+        "CityId": "201301"
+    },
+    {
+        "CityName": "vizag",
+        "CityId": "531001"
+    },
+    {
+        "CityName": "allahabad",
+        "CityId": "211001"
+    },
+    {
+        "CityName": "nashik",
+        "CityId": "422001"
+    },
+    {
+        "CityName": "bhopal",
+        "CityId": "462001"
+    },
+    {
+        "CityName": "kanpur",
+        "CityId": "208001"
+    },
+    {
+        "CityName": "hubli",
+        "CityId": "580020"
+    },
+    {
+        "CityName": "jalandhar",
+        "CityId": "144001"
+    },
+    {
+        "CityName": "jamshedpur",
+        "CityId": "831001"
+    },
+    {
+        "CityName": "ludhiana",
+        "CityId": "141001"
+    },
+    {
+        "CityName": "kalyan",
+        "CityId": "421301"
+    },
+    {
+        "CityName": "madurai",
+        "CityId": "625001"
+    },
+    {
+        "CityName": "mangalore",
+        "CityId": "575001"
+    },
+    {
+        "CityName": "patna",
+        "CityId": "800001"
+    },
+    {
+        "CityName": "rajkot",
+        "CityId": "360001"
+    },
+    {
+        "CityName": "vijayawada",
+        "CityId": "520001"
+    },
+    {
+        "CityName": "agra",
+        "CityId": "282002"
+    },
+    {
+        "CityName": "amritsar",
+        "CityId": "143104"
+    },
+    {
+        "CityName": "bhubaneswar",
+        "CityId": "751001"
+    },
+    {
+        "CityName": "faridabad",
+        "CityId": "121001"
+    },
+    {
+        "CityName": "ghaziabad",
+        "CityId": "201002"
+    },
+    {
+        "CityName": "jabalpur",
+        "CityId": "482004"
+    },
+    {
+        "CityName": "kozhikode",
+        "CityId": "673003"
+    },
+    {
+        "CityName": "meerut",
+        "CityId": "250002"
+    },
+    {
+        "CityName": "pondicherry",
+        "CityId": "605001"
+    },
+    {
+        "CityName": "shimla",
+        "CityId": "171206"
+    },
+    {
+        "CityName": "akola",
+        "CityId": "444001"
+    },
+    {
+        "CityName": "bharuch",
+        "CityId": "393110"
+    },
+    {
+        "CityName": "dehradun",
+        "CityId": "248003"
+    },
+    {
+        "CityName": "guwahati",
+        "CityId": "781001"
+    },
+    {
+        "CityName": "hisar",
+        "CityId": "125001"
+    },
+    {
+        "CityName": "katni",
+        "CityId": "483775"
+    },
+    {
+        "CityName": "moradabad",
+        "CityId": "244302"
+    },
+    {
+        "CityName": "nellore",
+        "CityId": "524101"
+    },
+    {
+        "CityName": "salem",
+        "CityId": "636001"
+    },
+    {
+        "CityName": "satara",
+        "CityId": "415002"
+    },
+    {
+        "CityName": "sirsa",
+        "CityId": "125055"
+    },
+    {
+        "CityName": "shillong",
+        "CityId": "793001"
+    },
+    {
+        "CityName": "thrissur",
+        "CityId": "680001"
+    },
+    {
+        "CityName": "udaipur",
+        "CityId": "313001"
+    },
+    {
+        "CityName": "jodhpur",
+        "CityId": "342001"
+    },
+    {
+        "CityName": "gandhinagar",
+        "CityId": "382010"
+    },
+    {
+        "CityName": "srinagar",
+        "CityId": "190001"
+    },
+    {
+        "CityName": "aurangabad",
+        "CityId": "431001"
+    },
+    {
+        "CityName": "vellore",
+        "CityId": "632001"
+    },
+    {
+        "CityName": "belgaum",
+        "CityId": "590001"
+    },
+    {
+        "CityName": "varanasi",
+        "CityId": "221002"
+    },
+    {
+        "CityName": "kolhapur",
+        "CityId": "416001"
+    },
+    {
+        "CityName": "mathura",
+        "CityId": "281001"
+    },
+    {
+        "CityName": "panchkula",
+        "CityId": "134102"
+    },
+    {
+        "CityName": "jammu",
+        "CityId": "180001"
+    },
+    {
+        "CityName": "mohali",
+        "CityId": "140110"
+    },
+    {
+        "CityName": "cuttack",
+        "CityId": "753001"
+    },
+    {
+        "CityName": "ranchi",
+        "CityId": "834002"
+    },
+    {
+        "CityName": "aizawl",
+        "CityId": "796001"
+    },
+    {
+        "CityName": "kohima",
+        "CityId": "797001"
+    },
+    {
+        "CityName": "bareilly",
+        "CityId": "243001"
+    },
+    {
+        "CityName": "bikaner",
+        "CityId": "334001"
+    },
+    {
+        "CityName": "ajmer",
+        "CityId": "305001"
+    },
+    {
+        "CityName": "jamnagar",
+        "CityId": "361001"
+    },
+    {
+        "CityName": "gwalior",
+        "CityId": "474003"
+    },
+    {
+        "CityName": "warangal",
+        "CityId": "506002"
+    },
+    {
+        "CityName": "dhanbad",
+        "CityId": "826001"
+    },
+    {
+        "CityName": "solapur",
+        "CityId": "413001"
+    },
+    {
+        "CityName": "bilaspur",
+        "CityId": "495001"
+    },
+    {
+        "CityName": "kharagpur",
+        "CityId": "721301"
+    },
+    {
+        "CityName": "adilabad",
+        "CityId": "1000001"
+    },
+    {
+        "CityName": "adoni",
+        "CityId": "1000181"
+    },
+    {
+        "CityName": "amalapuram",
+        "CityId": "1000361"
+    },
+    {
+        "CityName": "anakapalle",
+        "CityId": "1000541"
+    },
+    {
+        "CityName": "anantapur",
+        "CityId": "1000721"
+    },
+    {
+        "CityName": "bapatla",
+        "CityId": "1000901"
+    },
+    {
+        "CityName": "bellampalle",
+        "CityId": "1001081"
+    },
+    {
+        "CityName": "bhimavaram",
+        "CityId": "1001261"
+    },
+    {
+        "CityName": "bobbili",
+        "CityId": "1001441"
+    },
+    {
+        "CityName": "bodhan",
+        "CityId": "1001621"
+    },
+    {
+        "CityName": "chilakalurupet",
+        "CityId": "1001801"
+    },
+    {
+        "CityName": "chinnachowk",
+        "CityId": "1001981"
+    },
+    {
+        "CityName": "chirala",
+        "CityId": "1002161"
+    },
+    {
+        "CityName": "chittoor",
+        "CityId": "1002341"
+    },
+    {
+        "CityName": "cuddapah",
+        "CityId": "1002521"
+    },
+    {
+        "CityName": "dharmavaram",
+        "CityId": "1002701"
+    },
+    {
+        "CityName": "eluru",
+        "CityId": "1002881"
+    },
+    {
+        "CityName": "gaddiannaram",
+        "CityId": "1003061"
+    },
+    {
+        "CityName": "gadwal",
+        "CityId": "1003241"
+    },
+    {
+        "CityName": "gudivada",
+        "CityId": "1003421"
+    },
+    {
+        "CityName": "gudur",
+        "CityId": "1003601"
+    },
+    {
+        "CityName": "guntakal",
+        "CityId": "1003781"
+    },
+    {
+        "CityName": "guntur",
+        "CityId": "1003961"
+    },
+    {
+        "CityName": "hindupur",
+        "CityId": "1004141"
+    },
+    {
+        "CityName": "jagtial",
+        "CityId": "1004321"
+    },
+    {
+        "CityName": "kadiri",
+        "CityId": "1004501"
+    },
+    {
+        "CityName": "kagaznagar",
+        "CityId": "1004681"
+    },
+    {
+        "CityName": "kakinada",
+        "CityId": "1004861"
+    },
+    {
+        "CityName": "kallur",
+        "CityId": "1005041"
+    },
+    {
+        "CityName": "kapra",
+        "CityId": "1005221"
+    },
+    {
+        "CityName": "karimnagar",
+        "CityId": "1005401"
+    },
+    {
+        "CityName": "kavali",
+        "CityId": "1005581"
+    },
+    {
+        "CityName": "khamman",
+        "CityId": "1005761"
+    },
+    {
+        "CityName": "koratla",
+        "CityId": "1005941"
+    },
+    {
+        "CityName": "kottagudem",
+        "CityId": "1006121"
+    },
+    {
+        "CityName": "kurnool",
+        "CityId": "1006301"
+    },
+    {
+        "CityName": "machilipatnam",
+        "CityId": "1006481"
+    },
+    {
+        "CityName": "madanapalle",
+        "CityId": "1006661"
+    },
+    {
+        "CityName": "mahbubnagar",
+        "CityId": "1006841"
+    },
+    {
+        "CityName": "mancherial",
+        "CityId": "1007021"
+    },
+    {
+        "CityName": "mandamarri",
+        "CityId": "1007201"
+    },
+    {
+        "CityName": "mangalagiri",
+        "CityId": "1007381"
+    },
+    {
+        "CityName": "markapur",
+        "CityId": "1007561"
+    },
+    {
+        "CityName": "miryalguda",
+        "CityId": "1007741"
+    },
+    {
+        "CityName": "nalgonda",
+        "CityId": "1007921"
+    },
+    {
+        "CityName": "nandyal",
+        "CityId": "1008101"
+    },
+    {
+        "CityName": "narasaraopet",
+        "CityId": "1008281"
+    },
+    {
+        "CityName": "narsapur",
+        "CityId": "1008461"
+    },
+    {
+        "CityName": "nirmal",
+        "CityId": "1008641"
+    },
+    {
+        "CityName": "nizamabad",
+        "CityId": "1008821"
+    },
+    {
+        "CityName": "nuzvid",
+        "CityId": "1009001"
+    },
+    {
+        "CityName": "ongole",
+        "CityId": "1009181"
+    },
+    {
+        "CityName": "palakol",
+        "CityId": "1009361"
+    },
+    {
+        "CityName": "palwancha",
+        "CityId": "1009541"
+    },
+    {
+        "CityName": "pitapuram",
+        "CityId": "1009721"
+    },
+    {
+        "CityName": "ponnur",
+        "CityId": "1009901"
+    },
+    {
+        "CityName": "proddatur",
+        "CityId": "1010081"
+    },
+    {
+        "CityName": "qutubullapur",
+        "CityId": "1010261"
+    },
+    {
+        "CityName": "rajahmundry",
+        "CityId": "1010441"
+    },
+    {
+        "CityName": "rajendranagar",
+        "CityId": "1010621"
+    },
+    {
+        "CityName": "ramachandrapuram",
+        "CityId": "1010801"
+    },
+    {
+        "CityName": "ramagundam",
+        "CityId": "1010981"
+    },
+    {
+        "CityName": "rayachoti",
+        "CityId": "1011161"
+    },
+    {
+        "CityName": "rayadurg",
+        "CityId": "1011341"
+    },
+    {
+        "CityName": "samalkota",
+        "CityId": "1011521"
+    },
+    {
+        "CityName": "sangareddy",
+        "CityId": "1011701"
+    },
+    {
+        "CityName": "sattenapalle",
+        "CityId": "1011881"
+    },
+    {
+        "CityName": "secunderabad",
+        "CityId": "1012061"
+    },
+    {
+        "CityName": "serilingampally",
+        "CityId": "1012241"
+    },
+    {
+        "CityName": "siddipet",
+        "CityId": "1012421"
+    },
+    {
+        "CityName": "sirsilla",
+        "CityId": "1012601"
+    },
+    {
+        "CityName": "srikakulam",
+        "CityId": "1012781"
+    },
+    {
+        "CityName": "srikalahasti",
+        "CityId": "1012961"
+    },
+    {
+        "CityName": "suryapet",
+        "CityId": "1013141"
+    },
+    {
+        "CityName": "tadepalligudem",
+        "CityId": "1013321"
+    },
+    {
+        "CityName": "tadpatri",
+        "CityId": "1013501"
+    },
+    {
+        "CityName": "tandur",
+        "CityId": "1013681"
+    },
+    {
+        "CityName": "tanuku",
+        "CityId": "1013861"
+    },
+    {
+        "CityName": "tenali",
+        "CityId": "1014041"
+    },
+    {
+        "CityName": "tirupati",
+        "CityId": "1014221"
+    },
+    {
+        "CityName": "tuni",
+        "CityId": "1014401"
+    },
+    {
+        "CityName": "uppal",
+        "CityId": "1014581"
+    },
+    {
+        "CityName": "vinukonda",
+        "CityId": "1014761"
+    },
+    {
+        "CityName": "vizianagaram",
+        "CityId": "1014941"
+    },
+    {
+        "CityName": "wanaparthi",
+        "CityId": "1015121"
+    },
+    {
+        "CityName": "yemmiganur",
+        "CityId": "1015301"
+    },
+    {
+        "CityName": "itanagar",
+        "CityId": "1015481"
+    },
+    {
+        "CityName": "bongaigaon",
+        "CityId": "1015661"
+    },
+    {
+        "CityName": "dhubri",
+        "CityId": "1015841"
+    },
+    {
+        "CityName": "dibrugarh",
+        "CityId": "1016021"
+    },
+    {
+        "CityName": "diphu",
+        "CityId": "1016201"
+    },
+    {
+        "CityName": "dispur",
+        "CityId": "1016381"
+    },
+    {
+        "CityName": "jorhat",
+        "CityId": "1016561"
+    },
+    {
+        "CityName": "karimganj",
+        "CityId": "1016741"
+    },
+    {
+        "CityName": "lumding",
+        "CityId": "1016921"
+    },
+    {
+        "CityName": "nagaon",
+        "CityId": "1017101"
+    },
+    {
+        "CityName": "northlakhimpur",
+        "CityId": "1017281"
+    },
+    {
+        "CityName": "silchar",
+        "CityId": "1017461"
+    },
+    {
+        "CityName": "sivasagar",
+        "CityId": "1017641"
+    },
+    {
+        "CityName": "tezpur",
+        "CityId": "1017821"
+    },
+    {
+        "CityName": "tinsukia",
+        "CityId": "1018001"
+    },
+    {
+        "CityName": "araria",
+        "CityId": "1018181"
+    },
+    {
+        "CityName": "arrah",
+        "CityId": "1018361"
+    },
+    {
+        "CityName": "bagaha",
+        "CityId": "1018541"
+    },
+    {
+        "CityName": "begusarai",
+        "CityId": "1018721"
+    },
+    {
+        "CityName": "bettiah",
+        "CityId": "1018901"
+    },
+    {
+        "CityName": "bhagalpur",
+        "CityId": "1019081"
+    },
+    {
+        "CityName": "buxar",
+        "CityId": "1019261"
+    },
+    {
+        "CityName": "chapra",
+        "CityId": "1019441"
+    },
+    {
+        "CityName": "darbhanga",
+        "CityId": "1019621"
+    },
+    {
+        "CityName": "dehrionsone",
+        "CityId": "1019801"
+    },
+    {
+        "CityName": "dinapurnizamat",
+        "CityId": "1019981"
+    },
+    {
+        "CityName": "gaya",
+        "CityId": "1020161"
+    },
+    {
+        "CityName": "gopalganj",
+        "CityId": "1020341"
+    },
+    {
+        "CityName": "hajipur",
+        "CityId": "1020521"
+    },
+    {
+        "CityName": "jamalpur",
+        "CityId": "1020701"
+    },
+    {
+        "CityName": "jamui",
+        "CityId": "1020881"
+    },
+    {
+        "CityName": "jehanabad",
+        "CityId": "1021061"
+    },
+    {
+        "CityName": "katihar",
+        "CityId": "1021241"
+    },
+    {
+        "CityName": "kishanganj",
+        "CityId": "1021421"
+    },
+    {
+        "CityName": "lakhisarai",
+        "CityId": "1021601"
+    },
+    {
+        "CityName": "madhubani",
+        "CityId": "1021781"
+    },
+    {
+        "CityName": "mokama",
+        "CityId": "1021961"
+    },
+    {
+        "CityName": "motihari",
+        "CityId": "1022141"
+    },
+    {
+        "CityName": "munger",
+        "CityId": "1022321"
+    },
+    {
+        "CityName": "muzaffarpur",
+        "CityId": "1022501"
+    },
+    {
+        "CityName": "nawada",
+        "CityId": "1022681"
+    },
+    {
+        "CityName": "phulwarisharif",
+        "CityId": "1022861"
+    },
+    {
+        "CityName": "purnia",
+        "CityId": "1023041"
+    },
+    {
+        "CityName": "saharsa",
+        "CityId": "1023221"
+    },
+    {
+        "CityName": "samastipur",
+        "CityId": "1023401"
+    },
+    {
+        "CityName": "sasaram",
+        "CityId": "1023581"
+    },
+    {
+        "CityName": "sitamarhi",
+        "CityId": "1023761"
+    },
+    {
+        "CityName": "supaul",
+        "CityId": "1023941"
+    },
+    {
+        "CityName": "ambikapur",
+        "CityId": "1024121"
+    },
+    {
+        "CityName": "bhatapara",
+        "CityId": "1024301"
+    },
+    {
+        "CityName": "bhilai",
+        "CityId": "1024481"
+    },
+    {
+        "CityName": "bhilaicharoda",
+        "CityId": "1024661"
+    },
+    {
+        "CityName": "chirmiri",
+        "CityId": "1024841"
+    },
+    {
+        "CityName": "dallirajhara",
+        "CityId": "1025021"
+    },
+    {
+        "CityName": "dhamtari",
+        "CityId": "1025201"
+    },
+    {
+        "CityName": "durg",
+        "CityId": "1025381"
+    },
+    {
+        "CityName": "jagdalpur",
+        "CityId": "1025561"
+    },
+    {
+        "CityName": "korba",
+        "CityId": "1025741"
+    },
+    {
+        "CityName": "raigarh",
+        "CityId": "1025921"
+    },
+    {
+        "CityName": "raipur",
+        "CityId": "1026101"
+    },
+    {
+        "CityName": "rajnandgaon",
+        "CityId": "1026281"
+    },
+    {
+        "CityName": "silvassa",
+        "CityId": "1026461"
+    },
+    {
+        "CityName": "daman",
+        "CityId": "1026641"
+    },
+    {
+        "CityName": "diu",
+        "CityId": "1026821"
+    },
+    {
+        "CityName": "madgaon",
+        "CityId": "1027001"
+    },
+    {
+        "CityName": "mormugoa",
+        "CityId": "1027181"
+    },
+    {
+        "CityName": "panaji",
+        "CityId": "1027361"
+    },
+    {
+        "CityName": "amreli",
+        "CityId": "1027541"
+    },
+    {
+        "CityName": "anand",
+        "CityId": "1027721"
+    },
+    {
+        "CityName": "anjar",
+        "CityId": "1027901"
+    },
+    {
+        "CityName": "ankleshwar",
+        "CityId": "1028081"
+    },
+    {
+        "CityName": "bardoli",
+        "CityId": "1028261"
+    },
+    {
+        "CityName": "bhavnagar",
+        "CityId": "1028441"
+    },
+    {
+        "CityName": "bhuj",
+        "CityId": "1028621"
+    },
+    {
+        "CityName": "bilimora",
+        "CityId": "1028801"
+    },
+    {
+        "CityName": "borsad",
+        "CityId": "1028981"
+    },
+    {
+        "CityName": "botad",
+        "CityId": "1029161"
+    },
+    {
+        "CityName": "chandkheda",
+        "CityId": "1029341"
+    },
+    {
+        "CityName": "chandlodiya",
+        "CityId": "1029521"
+    },
+    {
+        "CityName": "dabhoi",
+        "CityId": "1029701"
+    },
+    {
+        "CityName": "dahod",
+        "CityId": "1029881"
+    },
+    {
+        "CityName": "deesa",
+        "CityId": "1030061"
+    },
+    {
+        "CityName": "dholka",
+        "CityId": "1030241"
+    },
+    {
+        "CityName": "dhoraji",
+        "CityId": "1030421"
+    },
+    {
+        "CityName": "dhrangadhra",
+        "CityId": "1030601"
+    },
+    {
+        "CityName": "gandhidham",
+        "CityId": "1030781"
+    },
+    {
+        "CityName": "ghatlodiya",
+        "CityId": "1030961"
+    },
+    {
+        "CityName": "godhra",
+        "CityId": "1031141"
+    },
+    {
+        "CityName": "gondal",
+        "CityId": "1031321"
+    },
+    {
+        "CityName": "himatnagar",
+        "CityId": "1031501"
+    },
+    {
+        "CityName": "jetpur",
+        "CityId": "1031681"
+    },
+    {
+        "CityName": "junagadh",
+        "CityId": "1031861"
+    },
+    {
+        "CityName": "kadi",
+        "CityId": "1032041"
+    },
+    {
+        "CityName": "kalol",
+        "CityId": "1032221"
+    },
+    {
+        "CityName": "keshod",
+        "CityId": "1032401"
+    },
+    {
+        "CityName": "khambhat",
+        "CityId": "1032581"
+    },
+    {
+        "CityName": "mahuva",
+        "CityId": "1032761"
+    },
+    {
+        "CityName": "mandvi",
+        "CityId": "1032941"
+    },
+    {
+        "CityName": "mangrol",
+        "CityId": "1033121"
+    },
+    {
+        "CityName": "mehsana",
+        "CityId": "1033301"
+    },
+    {
+        "CityName": "modasa",
+        "CityId": "1033481"
+    },
+    {
+        "CityName": "morbi",
+        "CityId": "1033661"
+    },
+    {
+        "CityName": "nadiad",
+        "CityId": "1033841"
+    },
+    {
+        "CityName": "navsari",
+        "CityId": "1034021"
+    },
+    {
+        "CityName": "palanpur",
+        "CityId": "1034201"
+    },
+    {
+        "CityName": "palitana",
+        "CityId": "1034381"
+    },
+    {
+        "CityName": "patan",
+        "CityId": "1034561"
+    },
+    {
+        "CityName": "petlad",
+        "CityId": "1034741"
+    },
+    {
+        "CityName": "porbandar",
+        "CityId": "1034921"
+    },
+    {
+        "CityName": "ranip",
+        "CityId": "1035101"
+    },
+    {
+        "CityName": "savarkundla",
+        "CityId": "1035281"
+    },
+    {
+        "CityName": "sidhpur",
+        "CityId": "1035461"
+    },
+    {
+        "CityName": "surendranagar",
+        "CityId": "1035641"
+    },
+    {
+        "CityName": "una",
+        "CityId": "1035821"
+    },
+    {
+        "CityName": "unjha",
+        "CityId": "1036001"
+    },
+    {
+        "CityName": "upleta",
+        "CityId": "1036181"
+    },
+    {
+        "CityName": "valsad",
+        "CityId": "1036361"
+    },
+    {
+        "CityName": "vapi",
+        "CityId": "1036541"
+    },
+    {
+        "CityName": "vejalpur",
+        "CityId": "1036721"
+    },
+    {
+        "CityName": "veraval",
+        "CityId": "1036901"
+    },
+    {
+        "CityName": "vijalpor",
+        "CityId": "1037081"
+    },
+    {
+        "CityName": "viramgam",
+        "CityId": "1037261"
+    },
+    {
+        "CityName": "visnagar",
+        "CityId": "1037441"
+    },
+    {
+        "CityName": "ambala",
+        "CityId": "1037621"
+    },
+    {
+        "CityName": "ambalasadar",
+        "CityId": "1037801"
+    },
+    {
+        "CityName": "bahadurgarh",
+        "CityId": "1037981"
+    },
+    {
+        "CityName": "bhiwani",
+        "CityId": "1038161"
+    },
+    {
+        "CityName": "fatehabad",
+        "CityId": "1038341"
+    },
+    {
+        "CityName": "hansi",
+        "CityId": "1038521"
+    },
+    {
+        "CityName": "jagadhri",
+        "CityId": "1038701"
+    },
+    {
+        "CityName": "jind",
+        "CityId": "1038881"
+    },
+    {
+        "CityName": "kaithal",
+        "CityId": "1039061"
+    },
+    {
+        "CityName": "karnal",
+        "CityId": "1039241"
+    },
+    {
+        "CityName": "mandidabwali",
+        "CityId": "1039421"
+    },
+    {
+        "CityName": "narnaul",
+        "CityId": "1039601"
+    },
+    {
+        "CityName": "narwana",
+        "CityId": "1039781"
+    },
+    {
+        "CityName": "palwal",
+        "CityId": "1039961"
+    },
+    {
+        "CityName": "panipat",
+        "CityId": "1040142"
+    },
+    {
+        "CityName": "rewari",
+        "CityId": "1040322"
+    },
+    {
+        "CityName": "rohtak",
+        "CityId": "1040502"
+    },
+    {
+        "CityName": "sonipat",
+        "CityId": "1040682"
+    },
+    {
+        "CityName": "thanesar",
+        "CityId": "1040862"
+    },
+    {
+        "CityName": "tohana",
+        "CityId": "1041042"
+    },
+    {
+        "CityName": "yamunanagar",
+        "CityId": "1041222"
+    },
+    {
+        "CityName": "anantnag",
+        "CityId": "1041402"
+    },
+    {
+        "CityName": "baramulla",
+        "CityId": "1041582"
+    },
+    {
+        "CityName": "kathua",
+        "CityId": "1041762"
+    },
+    {
+        "CityName": "sopore",
+        "CityId": "1041942"
+    },
+    {
+        "CityName": "udhampur",
+        "CityId": "1042122"
+    },
+    {
+        "CityName": "adityapur",
+        "CityId": "1042302"
+    },
+    {
+        "CityName": "bagbera",
+        "CityId": "1042482"
+    },
+    {
+        "CityName": "bhuli",
+        "CityId": "1042662"
+    },
+    {
+        "CityName": "bokarosteelcity",
+        "CityId": "1042842"
+    },
+    {
+        "CityName": "chaibasa",
+        "CityId": "1043022"
+    },
+    {
+        "CityName": "chakradharpur",
+        "CityId": "1043202"
+    },
+    {
+        "CityName": "chirkunda",
+        "CityId": "1043382"
+    },
+    {
+        "CityName": "daltonganj",
+        "CityId": "1043562"
+    },
+    {
+        "CityName": "deoghar",
+        "CityId": "1043742"
+    },
+    {
+        "CityName": "giridih",
+        "CityId": "1043922"
+    },
+    {
+        "CityName": "hazaribag",
+        "CityId": "1044102"
+    },
+    {
+        "CityName": "jharia",
+        "CityId": "1044282"
+    },
+    {
+        "CityName": "jhumritelaiya",
+        "CityId": "1044462"
+    },
+    {
+        "CityName": "jorapokhar",
+        "CityId": "1044642"
+    },
+    {
+        "CityName": "katras",
+        "CityId": "1044822"
+    },
+    {
+        "CityName": "phusro",
+        "CityId": "1045002"
+    },
+    {
+        "CityName": "ramgarh",
+        "CityId": "1045182"
+    },
+    {
+        "CityName": "sahebganj",
+        "CityId": "1045362"
+    },
+    {
+        "CityName": "saunda",
+        "CityId": "1045542"
+    },
+    {
+        "CityName": "sindri",
+        "CityId": "1045722"
+    },
+    {
+        "CityName": "tisra",
+        "CityId": "1045902"
+    },
+    {
+        "CityName": "bagalkot",
+        "CityId": "1046082"
+    },
+    {
+        "CityName": "basavakalyan",
+        "CityId": "1046262"
+    },
+    {
+        "CityName": "bellary",
+        "CityId": "1046442"
+    },
+    {
+        "CityName": "bhadravathi",
+        "CityId": "1046622"
+    },
+    {
+        "CityName": "bidar",
+        "CityId": "1046802"
+    },
+    {
+        "CityName": "bijapur",
+        "CityId": "1046982"
+    },
+    {
+        "CityName": "chamrajnagar",
+        "CityId": "1047162"
+    },
+    {
+        "CityName": "channapatna",
+        "CityId": "1047342"
+    },
+    {
+        "CityName": "chikkaballapur",
+        "CityId": "1047522"
+    },
+    {
+        "CityName": "chikmagalur",
+        "CityId": "1047702"
+    },
+    {
+        "CityName": "chintamani",
+        "CityId": "1047882"
+    },
+    {
+        "CityName": "chitradurga",
+        "CityId": "1048062"
+    },
+    {
+        "CityName": "dandeli",
+        "CityId": "1048242"
+    },
+    {
+        "CityName": "davanagere",
+        "CityId": "1048422"
+    },
+    {
+        "CityName": "doddaballapur",
+        "CityId": "1048602"
+    },
+    {
+        "CityName": "gadag",
+        "CityId": "1048782"
+    },
+    {
+        "CityName": "gangavathi",
+        "CityId": "1048962"
+    },
+    {
+        "CityName": "gokak",
+        "CityId": "1049142"
+    },
+    {
+        "CityName": "gulbarga",
+        "CityId": "1049322"
+    },
+    {
+        "CityName": "harihar",
+        "CityId": "1049502"
+    },
+    {
+        "CityName": "hassan",
+        "CityId": "1049682"
+    },
+    {
+        "CityName": "haveri",
+        "CityId": "1049862"
+    },
+    {
+        "CityName": "hospet",
+        "CityId": "1050042"
+    },
+    {
+        "CityName": "ilkal",
+        "CityId": "1050222"
+    },
+    {
+        "CityName": "jamakhandi",
+        "CityId": "1050402"
+    },
+    {
+        "CityName": "karwar",
+        "CityId": "1050582"
+    },
+    {
+        "CityName": "kolar",
+        "CityId": "1050762"
+    },
+    {
+        "CityName": "kollegal",
+        "CityId": "1050942"
+    },
+    {
+        "CityName": "koppal",
+        "CityId": "1051122"
+    },
+    {
+        "CityName": "mandya",
+        "CityId": "1051302"
+    },
+    {
+        "CityName": "nipani",
+        "CityId": "1051482"
+    },
+    {
+        "CityName": "rabkavibanhatti",
+        "CityId": "1051662"
+    },
+    {
+        "CityName": "raichur",
+        "CityId": "1051842"
+    },
+    {
+        "CityName": "ramanagaram",
+        "CityId": "1052022"
+    },
+    {
+        "CityName": "ranebennur",
+        "CityId": "1052202"
+    },
+    {
+        "CityName": "robertsonpet",
+        "CityId": "1052382"
+    },
+    {
+        "CityName": "sagara",
+        "CityId": "1052562"
+    },
+    {
+        "CityName": "shimoga",
+        "CityId": "1052742"
+    },
+    {
+        "CityName": "sindhnur",
+        "CityId": "1052922"
+    },
+    {
+        "CityName": "sira",
+        "CityId": "1053102"
+    },
+    {
+        "CityName": "sirsi",
+        "CityId": "1053282"
+    },
+    {
+        "CityName": "tiptur",
+        "CityId": "1053462"
+    },
+    {
+        "CityName": "tumkur",
+        "CityId": "1053642"
+    },
+    {
+        "CityName": "udupi",
+        "CityId": "1053822"
+    },
+    {
+        "CityName": "yadgir",
+        "CityId": "1054002"
+    },
+    {
+        "CityName": "alappuzha",
+        "CityId": "1054182"
+    },
+    {
+        "CityName": "changanacherry",
+        "CityId": "1054362"
+    },
+    {
+        "CityName": "cherthala",
+        "CityId": "1054542"
+    },
+    {
+        "CityName": "chittur",
+        "CityId": "1054722"
+    },
+    {
+        "CityName": "edathala",
+        "CityId": "1054902"
+    },
+    {
+        "CityName": "kanhangad",
+        "CityId": "1055082"
+    },
+    {
+        "CityName": "kannur",
+        "CityId": "1055262"
+    },
+    {
+        "CityName": "kasaragod",
+        "CityId": "1055442"
+    },
+    {
+        "CityName": "kayamkulam",
+        "CityId": "1055622"
+    },
+    {
+        "CityName": "kollam",
+        "CityId": "1055802"
+    },
+    {
+        "CityName": "kottayam",
+        "CityId": "1055982"
+    },
+    {
+        "CityName": "malappuram",
+        "CityId": "1056162"
+    },
+    {
+        "CityName": "manjeri",
+        "CityId": "1056342"
+    },
+    {
+        "CityName": "nedumangad",
+        "CityId": "1056522"
+    },
+    {
+        "CityName": "neyyattinkara",
+        "CityId": "1056702"
+    },
+    {
+        "CityName": "palakkad",
+        "CityId": "1056882"
+    },
+    {
+        "CityName": "payyannur",
+        "CityId": "1057062"
+    },
+    {
+        "CityName": "ponnani",
+        "CityId": "1057242"
+    },
+    {
+        "CityName": "taliparamba",
+        "CityId": "1057422"
+    },
+    {
+        "CityName": "thalassery",
+        "CityId": "1057602"
+    },
+    {
+        "CityName": "tirur",
+        "CityId": "1057782"
+    },
+    {
+        "CityName": "tiruvalla",
+        "CityId": "1057962"
+    },
+    {
+        "CityName": "kavaratti",
+        "CityId": "1058142"
+    },
+    {
+        "CityName": "ashoknagar",
+        "CityId": "1058322"
+    },
+    {
+        "CityName": "balaghat",
+        "CityId": "1058502"
+    },
+    {
+        "CityName": "betul",
+        "CityId": "1058682"
+    },
+    {
+        "CityName": "bhind",
+        "CityId": "1058862"
+    },
+    {
+        "CityName": "binaetawa",
+        "CityId": "1059042"
+    },
+    {
+        "CityName": "burhanpur",
+        "CityId": "1059222"
+    },
+    {
+        "CityName": "chhatarpur",
+        "CityId": "1059402"
+    },
+    {
+        "CityName": "chhindwara",
+        "CityId": "1059582"
+    },
+    {
+        "CityName": "dabra",
+        "CityId": "1059762"
+    },
+    {
+        "CityName": "damoh",
+        "CityId": "1059942"
+    },
+    {
+        "CityName": "datia",
+        "CityId": "1060122"
+    },
+    {
+        "CityName": "dewas",
+        "CityId": "1060302"
+    },
+    {
+        "CityName": "dhanpuri",
+        "CityId": "1060482"
+    },
+    {
+        "CityName": "dhar",
+        "CityId": "1060662"
+    },
+    {
+        "CityName": "guna",
+        "CityId": "1060842"
+    },
+    {
+        "CityName": "harda",
+        "CityId": "1061022"
+    },
+    {
+        "CityName": "hoshangabad",
+        "CityId": "1061202"
+    },
+    {
+        "CityName": "itarsi",
+        "CityId": "1061382"
+    },
+    {
+        "CityName": "jaora",
+        "CityId": "1061562"
+    },
+    {
+        "CityName": "khandwa",
+        "CityId": "1061743"
+    },
+    {
+        "CityName": "khargone",
+        "CityId": "1061923"
+    },
+    {
+        "CityName": "mandla",
+        "CityId": "1062103"
+    },
+    {
+        "CityName": "mandsaur",
+        "CityId": "1062283"
+    },
+    {
+        "CityName": "mhow",
+        "CityId": "1062463"
+    },
+    {
+        "CityName": "morena",
+        "CityId": "1062643"
+    },
+    {
+        "CityName": "nagda",
+        "CityId": "1062823"
+    },
+    {
+        "CityName": "narsinghpur",
+        "CityId": "1063003"
+    },
+    {
+        "CityName": "nimach",
+        "CityId": "1063183"
+    },
+    {
+        "CityName": "panna",
+        "CityId": "1063363"
+    },
+    {
+        "CityName": "parasia",
+        "CityId": "1063543"
+    },
+    {
+        "CityName": "pithampur",
+        "CityId": "1063723"
+    },
+    {
+        "CityName": "ratlam",
+        "CityId": "1063903"
+    },
+    {
+        "CityName": "rewa",
+        "CityId": "1064083"
+    },
+    {
+        "CityName": "sagar",
+        "CityId": "1064263"
+    },
+    {
+        "CityName": "sarni",
+        "CityId": "1064443"
+    },
+    {
+        "CityName": "satna",
+        "CityId": "1064623"
+    },
+    {
+        "CityName": "sehore",
+        "CityId": "1064803"
+    },
+    {
+        "CityName": "seoni",
+        "CityId": "1064983"
+    },
+    {
+        "CityName": "shahdol",
+        "CityId": "1065163"
+    },
+    {
+        "CityName": "shajapur",
+        "CityId": "1065343"
+    },
+    {
+        "CityName": "sheopur",
+        "CityId": "1065523"
+    },
+    {
+        "CityName": "shivpuri",
+        "CityId": "1065703"
+    },
+    {
+        "CityName": "singrauli",
+        "CityId": "1065883"
+    },
+    {
+        "CityName": "tikamgarh",
+        "CityId": "1066063"
+    },
+    {
+        "CityName": "ujjain",
+        "CityId": "1066243"
+    },
+    {
+        "CityName": "vidisha",
+        "CityId": "1066423"
+    },
+    {
+        "CityName": "achalpur",
+        "CityId": "1066603"
+    },
+    {
+        "CityName": "ahmednagar",
+        "CityId": "1066783"
+    },
+    {
+        "CityName": "akot",
+        "CityId": "1066963"
+    },
+    {
+        "CityName": "amalner",
+        "CityId": "1067143"
+    },
+    {
+        "CityName": "ambajogai",
+        "CityId": "1067323"
+    },
+    {
+        "CityName": "amravati",
+        "CityId": "1067503"
+    },
+    {
+        "CityName": "anjangaon",
+        "CityId": "1067683"
+    },
+    {
+        "CityName": "badlapur",
+        "CityId": "1067863"
+    },
+    {
+        "CityName": "ballarpur",
+        "CityId": "1068043"
+    },
+    {
+        "CityName": "baramati",
+        "CityId": "1068223"
+    },
+    {
+        "CityName": "barshi",
+        "CityId": "1068403"
+    },
+    {
+        "CityName": "basmath",
+        "CityId": "1068583"
+    },
+    {
+        "CityName": "beed",
+        "CityId": "1068763"
+    },
+    {
+        "CityName": "bhadravati",
+        "CityId": "1068943"
+    },
+    {
+        "CityName": "bhandara",
+        "CityId": "1069123"
+    },
+    {
+        "CityName": "bhusawal",
+        "CityId": "1069303"
+    },
+    {
+        "CityName": "buldhana",
+        "CityId": "1069483"
+    },
+    {
+        "CityName": "chalisgaon",
+        "CityId": "1069663"
+    },
+    {
+        "CityName": "chandrapur",
+        "CityId": "1069843"
+    },
+    {
+        "CityName": "chopda",
+        "CityId": "1070023"
+    },
+    {
+        "CityName": "deolali",
+        "CityId": "1070203"
+    },
+    {
+        "CityName": "dhule",
+        "CityId": "1070383"
+    },
+    {
+        "CityName": "gondia",
+        "CityId": "1070563"
+    },
+    {
+        "CityName": "hinganghat",
+        "CityId": "1070743"
+    },
+    {
+        "CityName": "hingoli",
+        "CityId": "1070923"
+    },
+    {
+        "CityName": "ichalkaranji",
+        "CityId": "1071103"
+    },
+    {
+        "CityName": "jalgaon",
+        "CityId": "1071283"
+    },
+    {
+        "CityName": "jalna",
+        "CityId": "1071463"
+    },
+    {
+        "CityName": "kamthi",
+        "CityId": "1071643"
+    },
+    {
+        "CityName": "karad",
+        "CityId": "1071823"
+    },
+    {
+        "CityName": "karanja",
+        "CityId": "1072003"
+    },
+    {
+        "CityName": "khamgaon",
+        "CityId": "1072183"
+    },
+    {
+        "CityName": "khopoli",
+        "CityId": "1072363"
+    },
+    {
+        "CityName": "kopargaon",
+        "CityId": "1072543"
+    },
+    {
+        "CityName": "latur",
+        "CityId": "1072723"
+    },
+    {
+        "CityName": "lonavla",
+        "CityId": "1072903"
+    },
+    {
+        "CityName": "malegaon",
+        "CityId": "1073083"
+    },
+    {
+        "CityName": "malkapur",
+        "CityId": "1073263"
+    },
+    {
+        "CityName": "manmad",
+        "CityId": "1073443"
+    },
+    {
+        "CityName": "miraj",
+        "CityId": "1073623"
+    },
+    {
+        "CityName": "nanded",
+        "CityId": "1073803"
+    },
+    {
+        "CityName": "nandurbar",
+        "CityId": "1073983"
+    },
+    {
+        "CityName": "navgharmanikpur",
+        "CityId": "1074163"
+    },
+    {
+        "CityName": "osmanabad",
+        "CityId": "1074343"
+    },
+    {
+        "CityName": "palghar",
+        "CityId": "1074523"
+    },
+    {
+        "CityName": "pandharpur",
+        "CityId": "1074703"
+    },
+    {
+        "CityName": "panvel",
+        "CityId": "1074883"
+    },
+    {
+        "CityName": "parbhani",
+        "CityId": "1075063"
+    },
+    {
+        "CityName": "parli",
+        "CityId": "1075243"
+    },
+    {
+        "CityName": "phaltan",
+        "CityId": "1075423"
+    },
+    {
+        "CityName": "pimprichinchwad",
+        "CityId": "1075603"
+    },
+    {
+        "CityName": "pusad",
+        "CityId": "1075783"
+    },
+    {
+        "CityName": "ratnagiri",
+        "CityId": "1075963"
+    },
+    {
+        "CityName": "sangamner",
+        "CityId": "1076143"
+    },
+    {
+        "CityName": "sangli",
+        "CityId": "1076323"
+    },
+    {
+        "CityName": "shegaon",
+        "CityId": "1076503"
+    },
+    {
+        "CityName": "shirpur",
+        "CityId": "1076683"
+    },
+    {
+        "CityName": "shrirampur",
+        "CityId": "1076863"
+    },
+    {
+        "CityName": "udgir",
+        "CityId": "1077043"
+    },
+    {
+        "CityName": "uranislampur",
+        "CityId": "1077223"
+    },
+    {
+        "CityName": "vasaivirar",
+        "CityId": "1077403"
+    },
+    {
+        "CityName": "wani",
+        "CityId": "1077583"
+    },
+    {
+        "CityName": "wardha",
+        "CityId": "1077763"
+    },
+    {
+        "CityName": "washim",
+        "CityId": "1077943"
+    },
+    {
+        "CityName": "yavatmal",
+        "CityId": "1078123"
+    },
+    {
+        "CityName": "imphal",
+        "CityId": "1078303"
+    },
+    {
+        "CityName": "tura",
+        "CityId": "1078483"
+    },
+    {
+        "CityName": "dimapur",
+        "CityId": "1078663"
+    },
+    {
+        "CityName": "balangir",
+        "CityId": "1078843"
+    },
+    {
+        "CityName": "balasore",
+        "CityId": "1079023"
+    },
+    {
+        "CityName": "barbil",
+        "CityId": "1079203"
+    },
+    {
+        "CityName": "bargarh",
+        "CityId": "1079383"
+    },
+    {
+        "CityName": "baripada",
+        "CityId": "1079563"
+    },
+    {
+        "CityName": "bhadrak",
+        "CityId": "1079743"
+    },
+    {
+        "CityName": "bhawanipatna",
+        "CityId": "1079923"
+    },
+    {
+        "CityName": "brahmapur",
+        "CityId": "1080103"
+    },
+    {
+        "CityName": "brajarajnagar",
+        "CityId": "1080283"
+    },
+    {
+        "CityName": "dhenkanal",
+        "CityId": "1080463"
+    },
+    {
+        "CityName": "jatani",
+        "CityId": "1080643"
+    },
+    {
+        "CityName": "jeypore",
+        "CityId": "1080823"
+    },
+    {
+        "CityName": "jharsuguda",
+        "CityId": "1081003"
+    },
+    {
+        "CityName": "kendujhar",
+        "CityId": "1081183"
+    },
+    {
+        "CityName": "paradip",
+        "CityId": "1081363"
+    },
+    {
+        "CityName": "puri",
+        "CityId": "1081543"
+    },
+    {
+        "CityName": "rayagada",
+        "CityId": "1081723"
+    },
+    {
+        "CityName": "rourkela",
+        "CityId": "1081903"
+    },
+    {
+        "CityName": "sambalpur",
+        "CityId": "1082083"
+    },
+    {
+        "CityName": "sunabeda",
+        "CityId": "1082263"
+    },
+    {
+        "CityName": "karaikal",
+        "CityId": "1082443"
+    },
+    {
+        "CityName": "ozhukarai",
+        "CityId": "1082623"
+    },
+    {
+        "CityName": "abohar",
+        "CityId": "1082803"
+    },
+    {
+        "CityName": "barnala",
+        "CityId": "1082983"
+    },
+    {
+        "CityName": "batala",
+        "CityId": "1083163"
+    },
+    {
+        "CityName": "bathinda",
+        "CityId": "1083343"
+    },
+    {
+        "CityName": "faridkot",
+        "CityId": "1083523"
+    },
+    {
+        "CityName": "fazilka",
+        "CityId": "1083703"
+    },
+    {
+        "CityName": "firozpur",
+        "CityId": "1083883"
+    },
+    {
+        "CityName": "firozpurcantonment",
+        "CityId": "1084063"
+    },
+    {
+        "CityName": "gurdaspur",
+        "CityId": "1084243"
+    },
+    {
+        "CityName": "hoshiarpur",
+        "CityId": "1084423"
+    },
+    {
+        "CityName": "jagraon",
+        "CityId": "1084603"
+    },
+    {
+        "CityName": "kapurthala",
+        "CityId": "1084783"
+    },
+    {
+        "CityName": "khanna",
+        "CityId": "1084963"
+    },
+    {
+        "CityName": "kotkapura",
+        "CityId": "1085143"
+    },
+    {
+        "CityName": "malerkotla",
+        "CityId": "1085323"
+    },
+    {
+        "CityName": "malout",
+        "CityId": "1085503"
+    },
+    {
+        "CityName": "mandigobindgarh",
+        "CityId": "1085683"
+    },
+    {
+        "CityName": "mansa",
+        "CityId": "1085863"
+    },
+    {
+        "CityName": "moga",
+        "CityId": "1086043"
+    },
+    {
+        "CityName": "nabha",
+        "CityId": "1086223"
+    },
+    {
+        "CityName": "pathankot",
+        "CityId": "1086403"
+    },
+    {
+        "CityName": "patiala",
+        "CityId": "1086583"
+    },
+    {
+        "CityName": "phagwara",
+        "CityId": "1086763"
+    },
+    {
+        "CityName": "rajpura",
+        "CityId": "1086943"
+    },
+    {
+        "CityName": "sangrur",
+        "CityId": "1087123"
+    },
+    {
+        "CityName": "sirhind",
+        "CityId": "1087303"
+    },
+    {
+        "CityName": "srimuktsarsahib",
+        "CityId": "1087483"
+    },
+    {
+        "CityName": "sunam",
+        "CityId": "1087663"
+    },
+    {
+        "CityName": "tarntaransahib",
+        "CityId": "1087843"
+    },
+    {
+        "CityName": "alwar",
+        "CityId": "1088023"
+    },
+    {
+        "CityName": "balotra",
+        "CityId": "1088203"
+    },
+    {
+        "CityName": "banswara",
+        "CityId": "1088383"
+    },
+    {
+        "CityName": "baran",
+        "CityId": "1088563"
+    },
+    {
+        "CityName": "bari",
+        "CityId": "1088743"
+    },
+    {
+        "CityName": "barmer",
+        "CityId": "1088923"
+    },
+    {
+        "CityName": "beawar",
+        "CityId": "1089103"
+    },
+    {
+        "CityName": "bharatpur",
+        "CityId": "1089283"
+    },
+    {
+        "CityName": "bhilwara",
+        "CityId": "1089463"
+    },
+    {
+        "CityName": "bundi",
+        "CityId": "1089643"
+    },
+    {
+        "CityName": "chittorgarh",
+        "CityId": "1089823"
+    },
+    {
+        "CityName": "chomu",
+        "CityId": "1090003"
+    },
+    {
+        "CityName": "churu",
+        "CityId": "1090183"
+    },
+    {
+        "CityName": "dausa",
+        "CityId": "1090363"
+    },
+    {
+        "CityName": "dholpur",
+        "CityId": "1090543"
+    },
+    {
+        "CityName": "ganganagar",
+        "CityId": "1090723"
+    },
+    {
+        "CityName": "gangapurcity",
+        "CityId": "1090903"
+    },
+    {
+        "CityName": "hanumangarh",
+        "CityId": "1091083"
+    },
+    {
+        "CityName": "hindaun",
+        "CityId": "1091263"
+    },
+    {
+        "CityName": "jaisalmer",
+        "CityId": "1091443"
+    },
+    {
+        "CityName": "jhunjhunu",
+        "CityId": "1091623"
+    },
+    {
+        "CityName": "karauli",
+        "CityId": "1091803"
+    },
+    {
+        "CityName": "kishangarh",
+        "CityId": "1091983"
+    },
+    {
+        "CityName": "kota",
+        "CityId": "1092163"
+    },
+    {
+        "CityName": "kuchaman",
+        "CityId": "1092343"
+    },
+    {
+        "CityName": "ladnun",
+        "CityId": "1092523"
+    },
+    {
+        "CityName": "makrana",
+        "CityId": "1092703"
+    },
+    {
+        "CityName": "nagaur",
+        "CityId": "1092883"
+    },
+    {
+        "CityName": "nawalgarh",
+        "CityId": "1093063"
+    },
+    {
+        "CityName": "nimbahera",
+        "CityId": "1093243"
+    },
+    {
+        "CityName": "pali",
+        "CityId": "1093423"
+    },
+    {
+        "CityName": "rajgarh",
+        "CityId": "1093603"
+    },
+    {
+        "CityName": "rajsamand",
+        "CityId": "1093783"
+    },
+    {
+        "CityName": "ratangarh",
+        "CityId": "1093963"
+    },
+    {
+        "CityName": "sardarshahar",
+        "CityId": "1094143"
+    },
+    {
+        "CityName": "sawaimadhopur",
+        "CityId": "1094323"
+    },
+    {
+        "CityName": "sikar",
+        "CityId": "1094503"
+    },
+    {
+        "CityName": "sujangarh",
+        "CityId": "1094683"
+    },
+    {
+        "CityName": "suratgarh",
+        "CityId": "1094863"
+    },
+    {
+        "CityName": "tonk",
+        "CityId": "1095043"
+    },
+    {
+        "CityName": "gangtok",
+        "CityId": "1095223"
+    },
+    {
+        "CityName": "aarani",
+        "CityId": "1095403"
+    },
+    {
+        "CityName": "ambasamudram",
+        "CityId": "1095583"
+    },
+    {
+        "CityName": "ambur",
+        "CityId": "1095763"
+    },
+    {
+        "CityName": "arakkonam",
+        "CityId": "1095943"
+    },
+    {
+        "CityName": "arcot",
+        "CityId": "1096123"
+    },
+    {
+        "CityName": "aruppukkottai",
+        "CityId": "1096303"
+    },
+    {
+        "CityName": "attur",
+        "CityId": "1096483"
+    },
+    {
+        "CityName": "avaniapuram",
+        "CityId": "1096663"
+    },
+    {
+        "CityName": "bhavani",
+        "CityId": "1096843"
+    },
+    {
+        "CityName": "bodinayakkanur",
+        "CityId": "1097023"
+    },
+    {
+        "CityName": "chengalpattu",
+        "CityId": "1097203"
+    },
+    {
+        "CityName": "chidambaram",
+        "CityId": "1097383"
+    },
+    {
+        "CityName": "coonoor",
+        "CityId": "1097563"
+    },
+    {
+        "CityName": "cuddalore",
+        "CityId": "1097743"
+    },
+    {
+        "CityName": "devarshola",
+        "CityId": "1097923"
+    },
+    {
+        "CityName": "dharapuram",
+        "CityId": "1098103"
+    },
+    {
+        "CityName": "dharmapuri",
+        "CityId": "1098283"
+    },
+    {
+        "CityName": "dindigul",
+        "CityId": "1098463"
+    },
+    {
+        "CityName": "erode",
+        "CityId": "1098643"
+    },
+    {
+        "CityName": "gobichettipalayam",
+        "CityId": "1098823"
+    },
+    {
+        "CityName": "gudiyatham",
+        "CityId": "1099003"
+    },
+    {
+        "CityName": "hosur",
+        "CityId": "1099183"
+    },
+    {
+        "CityName": "kadayanallur",
+        "CityId": "1099363"
+    },
+    {
+        "CityName": "kambam",
+        "CityId": "1099543"
+    },
+    {
+        "CityName": "kanchipuram",
+        "CityId": "1099723"
+    },
+    {
+        "CityName": "karaikudi",
+        "CityId": "1099903"
+    },
+    {
+        "CityName": "karur",
+        "CityId": "1100083"
+    },
+    {
+        "CityName": "komarapalayam",
+        "CityId": "1100263"
+    },
+    {
+        "CityName": "kovilpatti",
+        "CityId": "1100443"
+    },
+    {
+        "CityName": "krishnagiri",
+        "CityId": "1100623"
+    },
+    {
+        "CityName": "kumbakonam",
+        "CityId": "1100803"
+    },
+    {
+        "CityName": "mannargudi",
+        "CityId": "1100983"
+    },
+    {
+        "CityName": "mayiladuthurai",
+        "CityId": "1101163"
+    },
+    {
+        "CityName": "mettupalayam",
+        "CityId": "1101343"
+    },
+    {
+        "CityName": "mettur",
+        "CityId": "1101523"
+    },
+    {
+        "CityName": "nagapattinam",
+        "CityId": "1101703"
+    },
+    {
+        "CityName": "nagercoil",
+        "CityId": "1101883"
+    },
+    {
+        "CityName": "namakkal",
+        "CityId": "1102063"
+    },
+    {
+        "CityName": "neyveli",
+        "CityId": "1102243"
+    },
+    {
+        "CityName": "ooty",
+        "CityId": "1102423"
+    },
+    {
+        "CityName": "palani",
+        "CityId": "1102603"
+    },
+    {
+        "CityName": "pallavaram",
+        "CityId": "1102783"
+    },
+    {
+        "CityName": "panruti",
+        "CityId": "1102963"
+    },
+    {
+        "CityName": "paramakudi",
+        "CityId": "1103143"
+    },
+    {
+        "CityName": "pattukkottai",
+        "CityId": "1103323"
+    },
+    {
+        "CityName": "pollachi",
+        "CityId": "1103503"
+    },
+    {
+        "CityName": "pudukkottai",
+        "CityId": "1103683"
+    },
+    {
+        "CityName": "puliyankudi",
+        "CityId": "1103863"
+    },
+    {
+        "CityName": "rajapalayam",
+        "CityId": "1104043"
+    },
+    {
+        "CityName": "ramanathapuram",
+        "CityId": "1104223"
+    },
+    {
+        "CityName": "sankarankoil",
+        "CityId": "1104403"
+    },
+    {
+        "CityName": "sivakasi",
+        "CityId": "1104583"
+    },
+    {
+        "CityName": "srivilliputhur",
+        "CityId": "1104763"
+    },
+    {
+        "CityName": "tenkasi",
+        "CityId": "1104943"
+    },
+    {
+        "CityName": "thanjavur",
+        "CityId": "1105123"
+    },
+    {
+        "CityName": "theniallinagaram",
+        "CityId": "1105303"
+    },
+    {
+        "CityName": "thiruvarur",
+        "CityId": "1105483"
+    },
+    {
+        "CityName": "thoothukudi",
+        "CityId": "1105663"
+    },
+    {
+        "CityName": "tindivanam",
+        "CityId": "1105843"
+    },
+    {
+        "CityName": "tiruchendur",
+        "CityId": "1106023"
+    },
+    {
+        "CityName": "tiruchengode",
+        "CityId": "1106203"
+    },
+    {
+        "CityName": "tirunelveli",
+        "CityId": "1106383"
+    },
+    {
+        "CityName": "tirupathur",
+        "CityId": "1106563"
+    },
+    {
+        "CityName": "tirupur",
+        "CityId": "1106743"
+    },
+    {
+        "CityName": "tiruvannamalai",
+        "CityId": "1106923"
+    },
+    {
+        "CityName": "udumalaipettai",
+        "CityId": "1107103"
+    },
+    {
+        "CityName": "valparai",
+        "CityId": "1107283"
+    },
+    {
+        "CityName": "vaniyambadi",
+        "CityId": "1107463"
+    },
+    {
+        "CityName": "viluppuram",
+        "CityId": "1107643"
+    },
+    {
+        "CityName": "virudhachalam",
+        "CityId": "1107823"
+    },
+    {
+        "CityName": "virudhunagar",
+        "CityId": "1108003"
+    },
+    {
+        "CityName": "agartala",
+        "CityId": "1108183"
+    },
+    {
+        "CityName": "aligarh",
+        "CityId": "1108363"
+    },
+    {
+        "CityName": "amroha",
+        "CityId": "1108543"
+    },
+    {
+        "CityName": "auraiya",
+        "CityId": "1108723"
+    },
+    {
+        "CityName": "azamgarh",
+        "CityId": "1108903"
+    },
+    {
+        "CityName": "baheri",
+        "CityId": "1109083"
+    },
+    {
+        "CityName": "bahraich",
+        "CityId": "1109263"
+    },
+    {
+        "CityName": "ballia",
+        "CityId": "1109443"
+    },
+    {
+        "CityName": "balrampur",
+        "CityId": "1109623"
+    },
+    {
+        "CityName": "banda",
+        "CityId": "1109803"
+    },
+    {
+        "CityName": "baraut",
+        "CityId": "1109983"
+    },
+    {
+        "CityName": "basti",
+        "CityId": "1110163"
+    },
+    {
+        "CityName": "behtahajipur",
+        "CityId": "1110343"
+    },
+    {
+        "CityName": "belapratapgarh",
+        "CityId": "1110523"
+    },
+    {
+        "CityName": "bhadohi",
+        "CityId": "1110703"
+    },
+    {
+        "CityName": "bijnor",
+        "CityId": "1110883"
+    },
+    {
+        "CityName": "bisalpur",
+        "CityId": "1111063"
+    },
+    {
+        "CityName": "budaun",
+        "CityId": "1111243"
+    },
+    {
+        "CityName": "bulandshahr",
+        "CityId": "1111423"
+    },
+    {
+        "CityName": "chandausi",
+        "CityId": "1111603"
+    },
+    {
+        "CityName": "chandpur",
+        "CityId": "1111783"
+    },
+    {
+        "CityName": "chhibramau",
+        "CityId": "1111963"
+    },
+    {
+        "CityName": "dadri",
+        "CityId": "1112143"
+    },
+    {
+        "CityName": "deoband",
+        "CityId": "1112323"
+    },
+    {
+        "CityName": "deoria",
+        "CityId": "1112503"
+    },
+    {
+        "CityName": "etah",
+        "CityId": "1112683"
+    },
+    {
+        "CityName": "etawah",
+        "CityId": "1112863"
+    },
+    {
+        "CityName": "faizabad",
+        "CityId": "1113043"
+    },
+    {
+        "CityName": "faridpur",
+        "CityId": "1113223"
+    },
+    {
+        "CityName": "farrukhabad",
+        "CityId": "1113403"
+    },
+    {
+        "CityName": "fatehpur",
+        "CityId": "1113583"
+    },
+    {
+        "CityName": "firozabad",
+        "CityId": "1113763"
+    },
+    {
+        "CityName": "gangaghat",
+        "CityId": "1113943"
+    },
+    {
+        "CityName": "gangoh",
+        "CityId": "1114123"
+    },
+    {
+        "CityName": "ghazipur",
+        "CityId": "1114303"
+    },
+    {
+        "CityName": "golagokarannath",
+        "CityId": "1114483"
+    },
+    {
+        "CityName": "gonda",
+        "CityId": "1114663"
+    },
+    {
+        "CityName": "gorakhpur",
+        "CityId": "1114843"
+    },
+    {
+        "CityName": "hapur",
+        "CityId": "1115023"
+    },
+    {
+        "CityName": "hardoi",
+        "CityId": "1115203"
+    },
+    {
+        "CityName": "hasanpur",
+        "CityId": "1115383"
+    },
+    {
+        "CityName": "hathras",
+        "CityId": "1115563"
+    },
+    {
+        "CityName": "jahangirabad",
+        "CityId": "1115743"
+    },
+    {
+        "CityName": "jaunpur",
+        "CityId": "1115923"
+    },
+    {
+        "CityName": "jhansi",
+        "CityId": "1116103"
+    },
+    {
+        "CityName": "kairana",
+        "CityId": "1116283"
+    },
+    {
+        "CityName": "kannauj",
+        "CityId": "1116463"
+    },
+    {
+        "CityName": "kasganj",
+        "CityId": "1116643"
+    },
+    {
+        "CityName": "khatauli",
+        "CityId": "1116823"
+    },
+    {
+        "CityName": "khurja",
+        "CityId": "1117003"
+    },
+    {
+        "CityName": "kiratpur",
+        "CityId": "1117183"
+    },
+    {
+        "CityName": "konch",
+        "CityId": "1117363"
+    },
+    {
+        "CityName": "laharpur",
+        "CityId": "1117543"
+    },
+    {
+        "CityName": "lakhimpur",
+        "CityId": "1117723"
+    },
+    {
+        "CityName": "lalitpur",
+        "CityId": "1117903"
+    },
+    {
+        "CityName": "loni",
+        "CityId": "1118083"
+    },
+    {
+        "CityName": "mahoba",
+        "CityId": "1118263"
+    },
+    {
+        "CityName": "mainpuri",
+        "CityId": "1118443"
+    },
+    {
+        "CityName": "mau",
+        "CityId": "1118623"
+    },
+    {
+        "CityName": "mauranipur",
+        "CityId": "1118803"
+    },
+    {
+        "CityName": "mawana",
+        "CityId": "1118983"
+    },
+    {
+        "CityName": "mirzapur",
+        "CityId": "1119163"
+    },
+    {
+        "CityName": "modinagar",
+        "CityId": "1119343"
+    },
+    {
+        "CityName": "mubarakpur",
+        "CityId": "1119523"
+    },
+    {
+        "CityName": "mughalsarai",
+        "CityId": "1119703"
+    },
+    {
+        "CityName": "muradnagar",
+        "CityId": "1119883"
+    },
+    {
+        "CityName": "muzaffarnagar",
+        "CityId": "1120063"
+    },
+    {
+        "CityName": "nagina",
+        "CityId": "1120243"
+    },
+    {
+        "CityName": "najibabad",
+        "CityId": "1120423"
+    },
+    {
+        "CityName": "nawabganj",
+        "CityId": "1120603"
+    },
+    {
+        "CityName": "obra",
+        "CityId": "1120783"
+    },
+    {
+        "CityName": "orai",
+        "CityId": "1120963"
+    },
+    {
+        "CityName": "pilibhit",
+        "CityId": "1121143"
+    },
+    {
+        "CityName": "pilkhuwa",
+        "CityId": "1121323"
+    },
+    {
+        "CityName": "raebareli",
+        "CityId": "1121503"
+    },
+    {
+        "CityName": "rampur",
+        "CityId": "1121683"
+    },
+    {
+        "CityName": "rath",
+        "CityId": "1121863"
+    },
+    {
+        "CityName": "renukoot",
+        "CityId": "1122043"
+    },
+    {
+        "CityName": "saharanpur",
+        "CityId": "1122223"
+    },
+    {
+        "CityName": "sahaswan",
+        "CityId": "1122403"
+    },
+    {
+        "CityName": "sambhal",
+        "CityId": "1122583"
+    },
+    {
+        "CityName": "shahabad",
+        "CityId": "1122763"
+    },
+    {
+        "CityName": "shahjahanpur",
+        "CityId": "1122943"
+    },
+    {
+        "CityName": "shamli",
+        "CityId": "1123123"
+    },
+    {
+        "CityName": "sherkot",
+        "CityId": "1123303"
+    },
+    {
+        "CityName": "shikohabad",
+        "CityId": "1123483"
+    },
+    {
+        "CityName": "sikandrabad",
+        "CityId": "1123663"
+    },
+    {
+        "CityName": "sitapur",
+        "CityId": "1123843"
+    },
+    {
+        "CityName": "sultanpur",
+        "CityId": "1124023"
+    },
+    {
+        "CityName": "tanda",
+        "CityId": "1124203"
+    },
+    {
+        "CityName": "tilhar",
+        "CityId": "1124383"
+    },
+    {
+        "CityName": "tundla",
+        "CityId": "1124563"
+    },
+    {
+        "CityName": "ujhani",
+        "CityId": "1124743"
+    },
+    {
+        "CityName": "unnao",
+        "CityId": "1124923"
+    },
+    {
+        "CityName": "vrindavan",
+        "CityId": "1125103"
+    },
+    {
+        "CityName": "haldwani",
+        "CityId": "1125283"
+    },
+    {
+        "CityName": "hardwar",
+        "CityId": "1125463"
+    },
+    {
+        "CityName": "kashipur",
+        "CityId": "1125643"
+    },
+    {
+        "CityName": "rishikesh",
+        "CityId": "1125823"
+    },
+    {
+        "CityName": "roorkee",
+        "CityId": "1126003"
+    },
+    {
+        "CityName": "rudrapur",
+        "CityId": "1126183"
+    },
+    {
+        "CityName": "alipurduar",
+        "CityId": "1126363"
+    },
+    {
+        "CityName": "arambag",
+        "CityId": "1126543"
+    },
+    {
+        "CityName": "asansol",
+        "CityId": "1126723"
+    },
+    {
+        "CityName": "ashoknagarkalyangarh",
+        "CityId": "1126903"
+    },
+    {
+        "CityName": "baharampur",
+        "CityId": "1127083"
+    },
+    {
+        "CityName": "baidyabati",
+        "CityId": "1127263"
+    },
+    {
+        "CityName": "bally",
+        "CityId": "1127443"
+    },
+    {
+        "CityName": "balurghat",
+        "CityId": "1127623"
+    },
+    {
+        "CityName": "bankura",
+        "CityId": "1127803"
+    },
+    {
+        "CityName": "bansberia",
+        "CityId": "1127983"
+    },
+    {
+        "CityName": "baranagar",
+        "CityId": "1128163"
+    },
+    {
+        "CityName": "barasat",
+        "CityId": "1128343"
+    },
+    {
+        "CityName": "bardhaman",
+        "CityId": "1128523"
+    },
+    {
+        "CityName": "barrackpore",
+        "CityId": "1128703"
+    },
+    {
+        "CityName": "baruipur",
+        "CityId": "1128883"
+    },
+    {
+        "CityName": "basirhat",
+        "CityId": "1129063"
+    },
+    {
+        "CityName": "beldanga",
+        "CityId": "1129243"
+    },
+    {
+        "CityName": "bhadreswar",
+        "CityId": "1129423"
+    },
+    {
+        "CityName": "bhatpara",
+        "CityId": "1129603"
+    },
+    {
+        "CityName": "bidhannagar",
+        "CityId": "1129783"
+    },
+    {
+        "CityName": "birnagar",
+        "CityId": "1129963"
+    },
+    {
+        "CityName": "bishnupur",
+        "CityId": "1130143"
+    },
+    {
+        "CityName": "bolpursantiniketan",
+        "CityId": "1130323"
+    },
+    {
+        "CityName": "bongaon",
+        "CityId": "1130503"
+    },
+    {
+        "CityName": "budgebudge",
+        "CityId": "1130683"
+    },
+    {
+        "CityName": "chakdaha",
+        "CityId": "1130863"
+    },
+    {
+        "CityName": "champdani",
+        "CityId": "1131043"
+    },
+    {
+        "CityName": "chandannagar",
+        "CityId": "1131223"
+    },
+    {
+        "CityName": "chandrokona",
+        "CityId": "1131403"
+    },
+    {
+        "CityName": "contai",
+        "CityId": "1131583"
+    },
+    {
+        "CityName": "coochbehar",
+        "CityId": "1131763"
+    },
+    {
+        "CityName": "cooperscamp",
+        "CityId": "1131943"
+    },
+    {
+        "CityName": "dainhat",
+        "CityId": "1132123"
+    },
+    {
+        "CityName": "dalkhola",
+        "CityId": "1132303"
+    },
+    {
+        "CityName": "darjeeling",
+        "CityId": "1132483"
+    },
+    {
+        "CityName": "dhulian",
+        "CityId": "1132663"
+    },
+    {
+        "CityName": "dhupguri",
+        "CityId": "1132843"
+    },
+    {
+        "CityName": "diamondharbour",
+        "CityId": "1133023"
+    },
+    {
+        "CityName": "dubrajpur",
+        "CityId": "1133203"
+    },
+    {
+        "CityName": "dumdum",
+        "CityId": "1133383"
+    },
+    {
+        "CityName": "durgapur",
+        "CityId": "1133563"
+    },
+    {
+        "CityName": "egra",
+        "CityId": "1133743"
+    },
+    {
+        "CityName": "englishbazar",
+        "CityId": "1133923"
+    },
+    {
+        "CityName": "gangarampur",
+        "CityId": "1134103"
+    },
+    {
+        "CityName": "garulia",
+        "CityId": "1134283"
+    },
+    {
+        "CityName": "ghatal",
+        "CityId": "1134463"
+    },
+    {
+        "CityName": "gobardanga",
+        "CityId": "1134643"
+    },
+    {
+        "CityName": "guskara",
+        "CityId": "1134823"
+    },
+    {
+        "CityName": "habra",
+        "CityId": "1135003"
+    },
+    {
+        "CityName": "haldia",
+        "CityId": "1135183"
+    },
+    {
+        "CityName": "haldibari",
+        "CityId": "1135363"
+    },
+    {
+        "CityName": "halisahar",
+        "CityId": "1135543"
+    },
+    {
+        "CityName": "howrah",
+        "CityId": "1135723"
+    },
+    {
+        "CityName": "huglichuchura",
+        "CityId": "1135903"
+    },
+    {
+        "CityName": "islampur",
+        "CityId": "1136083"
+    },
+    {
+        "CityName": "jalpaiguri",
+        "CityId": "1136263"
+    },
+    {
+        "CityName": "jamuria",
+        "CityId": "1136443"
+    },
+    {
+        "CityName": "jaynagarmazilpur",
+        "CityId": "1136623"
+    },
+    {
+        "CityName": "jhalda",
+        "CityId": "1136803"
+    },
+    {
+        "CityName": "jhargram",
+        "CityId": "1136983"
+    },
+    {
+        "CityName": "jiaganjazimganj",
+        "CityId": "1137163"
+    },
+    {
+        "CityName": "kaliaganj",
+        "CityId": "1137343"
+    },
+    {
+        "CityName": "kalimpong",
+        "CityId": "1137523"
+    },
+    {
+        "CityName": "kalna",
+        "CityId": "1137703"
+    },
+    {
+        "CityName": "kalyani",
+        "CityId": "1137883"
+    },
+    {
+        "CityName": "kamarhati",
+        "CityId": "1138063"
+    },
+    {
+        "CityName": "kanchrapara",
+        "CityId": "1138243"
+    },
+    {
+        "CityName": "kandi",
+        "CityId": "1138423"
+    },
+    {
+        "CityName": "katwa",
+        "CityId": "1138603"
+    },
+    {
+        "CityName": "kharar",
+        "CityId": "1138783"
+    },
+    {
+        "CityName": "khardaha",
+        "CityId": "1138963"
+    },
+    {
+        "CityName": "khirpai",
+        "CityId": "1139143"
+    },
+    {
+        "CityName": "konnagar",
+        "CityId": "1139323"
+    },
+    {
+        "CityName": "krishnanagar",
+        "CityId": "1139503"
+    },
+    {
+        "CityName": "kulti",
+        "CityId": "1139683"
+    },
+    {
+        "CityName": "kurseong",
+        "CityId": "1139863"
+    },
+    {
+        "CityName": "madhyamgram",
+        "CityId": "1140043"
+    },
+    {
+        "CityName": "maheshtala",
+        "CityId": "1140223"
+    },
+    {
+        "CityName": "malbazar",
+        "CityId": "1140403"
+    },
+    {
+        "CityName": "mathabhanga",
+        "CityId": "1140583"
+    },
+    {
+        "CityName": "mekliganj",
+        "CityId": "1140763"
+    },
+    {
+        "CityName": "memari",
+        "CityId": "1140943"
+    },
+    {
+        "CityName": "midnapore",
+        "CityId": "1141123"
+    },
+    {
+        "CityName": "mirik",
+        "CityId": "1141303"
+    },
+    {
+        "CityName": "murshidabad",
+        "CityId": "1141483"
+    },
+    {
+        "CityName": "nabadwip",
+        "CityId": "1141663"
+    },
+    {
+        "CityName": "naihati",
+        "CityId": "1141843"
+    },
+    {
+        "CityName": "nalhati",
+        "CityId": "1142023"
+    },
+    {
+        "CityName": "newbarrackpur",
+        "CityId": "1142203"
+    },
+    {
+        "CityName": "panihati",
+        "CityId": "1142383"
+    },
+    {
+        "CityName": "panskura",
+        "CityId": "1142563"
+    },
+    {
+        "CityName": "pujali",
+        "CityId": "1142743"
+    },
+    {
+        "CityName": "purulia",
+        "CityId": "1142923"
+    },
+    {
+        "CityName": "raghunathpur",
+        "CityId": "1143103"
+    },
+    {
+        "CityName": "raiganj",
+        "CityId": "1143283"
+    },
+    {
+        "CityName": "rajpursonarpur",
+        "CityId": "1143463"
+    },
+    {
+        "CityName": "rampurhat",
+        "CityId": "1143643"
+    },
+    {
+        "CityName": "ranaghat",
+        "CityId": "1143823"
+    },
+    {
+        "CityName": "raniganj",
+        "CityId": "1144003"
+    },
+    {
+        "CityName": "rishra",
+        "CityId": "1144183"
+    },
+    {
+        "CityName": "sainthia",
+        "CityId": "1144363"
+    },
+    {
+        "CityName": "serampore",
+        "CityId": "1144543"
+    },
+    {
+        "CityName": "shantipur",
+        "CityId": "1144723"
+    },
+    {
+        "CityName": "siliguri",
+        "CityId": "1144903"
+    },
+    {
+        "CityName": "sonamukhi",
+        "CityId": "1145083"
+    },
+    {
+        "CityName": "suri",
+        "CityId": "1145263"
+    },
+    {
+        "CityName": "taherpur",
+        "CityId": "1145443"
+    },
+    {
+        "CityName": "taki",
+        "CityId": "1145623"
+    },
+    {
+        "CityName": "tamluk",
+        "CityId": "1145803"
+    },
+    {
+        "CityName": "tarakeswar",
+        "CityId": "1145983"
+    },
+    {
+        "CityName": "titagarh",
+        "CityId": "1146163"
+    },
+    {
+        "CityName": "tufanganj",
+        "CityId": "1146343"
+    },
+    {
+        "CityName": "uluberia",
+        "CityId": "1146523"
+    },
+    {
+        "CityName": "uttarpara",
+        "CityId": "1146703"
+    },
+    {
+        "CityName": "portblair",
+        "CityId": "1146883"
+    },
+    {
+        "CityName": "andamannicobarislands",
+        "CityId": "1146884"
+    },
+    {
+        "CityName": "andhrapradesh",
+        "CityId": "1146885"
+    },
+    {
+        "CityName": "arunachalpradesh",
+        "CityId": "1146886"
+    },
+    {
+        "CityName": "assam",
+        "CityId": "1146887"
+    },
+    {
+        "CityName": "bihar",
+        "CityId": "1146888"
+    },
+    {
+        "CityName": "chattisgarh",
+        "CityId": "1146889"
+    },
+    {
+        "CityName": "dadranagarhaveli",
+        "CityId": "1146890"
+    },
+    {
+        "CityName": "damandiu",
+        "CityId": "1146891"
+    },
+    {
+        "CityName": "gujarat",
+        "CityId": "1146894"
+    },
+    {
+        "CityName": "haryana",
+        "CityId": "1146895"
+    },
+    {
+        "CityName": "himachalpradesh",
+        "CityId": "1146896"
+    },
+    {
+        "CityName": "jammukashmir",
+        "CityId": "1146897"
+    },
+    {
+        "CityName": "jharkhand",
+        "CityId": "1146898"
+    },
+    {
+        "CityName": "karnataka",
+        "CityId": "1146899"
+    },
+    {
+        "CityName": "kerala",
+        "CityId": "1146900"
+    },
+    {
+        "CityName": "lakshadweep",
+        "CityId": "1146901"
+    },
+    {
+        "CityName": "madhyapradesh",
+        "CityId": "1146902"
+    },
+    {
+        "CityName": "maharashtra",
+        "CityId": "1146903"
+    },
+    {
+        "CityName": "manipur",
+        "CityId": "1146904"
+    },
+    {
+        "CityName": "meghalaya",
+        "CityId": "1146905"
+    },
+    {
+        "CityName": "mizoram",
+        "CityId": "1146906"
+    },
+    {
+        "CityName": "nagaland",
+        "CityId": "1146907"
+    },
+    {
+        "CityName": "orissa",
+        "CityId": "1146908"
+    },
+    {
+        "CityName": "pondicherry",
+        "CityId": "1146909"
+    },
+    {
+        "CityName": "punjab",
+        "CityId": "1146910"
+    },
+    {
+        "CityName": "rajasthan",
+        "CityId": "1146911"
+    },
+    {
+        "CityName": "sikkim",
+        "CityId": "1146912"
+    },
+    {
+        "CityName": "tamilnadu",
+        "CityId": "1146913"
+    },
+    {
+        "CityName": "tripura",
+        "CityId": "1146914"
+    },
+    {
+        "CityName": "uttarpradesh",
+        "CityId": "1146915"
+    },
+    {
+        "CityName": "uttarakhand",
+        "CityId": "1146916"
+    },
+    {
+        "CityName": "westbengal",
+        "CityId": "1146917"
+    },
+    {
+        "CityName": "dwarka",
+        "CityId": "361335"
+    },
+    {
+        "CityName": "kandla",
+        "CityId": "370210"
+    },
+    {
+        "CityName": "dalhousie",
+        "CityId": "176304"
+    },
+    {
+        "CityName": "dharamsala",
+        "CityId": "176215"
+    },
+    {
+        "CityName": "kullu",
+        "CityId": "175101"
+    },
+    {
+        "CityName": "manali",
+        "CityId": "175131"
+    },
+    {
+        "CityName": "leh",
+        "CityId": "194101"
+    },
+    {
+        "CityName": "raigad",
+        "CityId": "402305"
+    },
+    {
+        "CityName": "pushkar",
+        "CityId": "305002"
+    },
+    {
+        "CityName": "kanyakumari",
+        "CityId": "629161"
+    },
+    {
+        "CityName": "barabanki",
+        "CityId": "225402"
+    },
+    {
+        "CityName": "greaternoida",
+        "CityId": "201310"
+    },
+    {
+        "CityName": "almora",
+        "CityId": "263601"
+    },
+    {
+        "CityName": "mussoorie",
+        "CityId": "248179"
+    },
+    {
+        "CityName": "nainital",
+        "CityId": "263001"
+    },
+    {
+        "CityName": "jhajjar",
+        "CityId": "124103"
+    },
+    {
+        "CityName": "kurukshetra",
+        "CityId": "136118"
+    },
+    {
+        "CityName": "jalalpur",
+        "CityId": "222136"
+    },
+    {
+        "CityName": "telangana",
+        "CityId": "1146920"
+    }
+]

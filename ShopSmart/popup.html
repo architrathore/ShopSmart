@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Flipquick Extension</title>
+    <style>
+    body {
+      /*overflow: hidden;*/
+      margin: 5px;
+      padding: 2px;
+      background: #3A3C52;
+      color: white;
+    }
+
+    div:first-child {
+      margin-top: 0px;
+    }
+
+    div {
+      cursor: pointer;
+      text-align: left;
+      padding: 1px 3px;
+      font-family: Helvetica, sans-serif;
+      font-size: 1.0em;
+      width: 300px;
+      /*margin-top: 1px;*/
+      /*background: #cccccc;*/
+    }
+    div:hover {
+      background: black;
+    }
+    /*#red {
+      border: 1px solid red;
+      color: red;
+    }
+    #blue {
+      border: 1px solid blue;
+      color: blue;
+    }
+    #green {
+      border: 1px solid green;
+      color: green;
+    }
+    #yellow {
+      border: 1px solid yellow;
+      color: yellow;
+    }*/
+    div.contentbox{
+      border: 1px white solid;
+      height: 2em;
+      width: 35em;
+    }
+
+    div.contentbox a p:nth-child(odd){
+      width: 80%;
+      overflow: hidden;
+      float:left;
+    }
+
+    div.contentbox a p:nth-child(even){
+      width: 20%;
+      overflow: hidden;
+      float:right;
+    }
+
+    p{
+      margin : 0;
+      color: white;
+    }
+    a{
+      margin : 0;
+      color: #BBBBBA;
+      text-decoration: none;
+    }
+
+    </style>
+    <script type="text/javascript" src="jquery-1.8.0.min.js"></script>
+    <script src="popup.js"></script> 
+  </head>
+  <body>
+    <h3 style = 'font-size: 2em'>ShopSmart</h3>
+    <!-- <div class = 'contentbox' id = 'quickrsugg1'>Quickr Suggestion 1</div>
+    <div class = 'contentbox' id = 'quickrsugg2'>Quickr Suggestion 2</div> -->
+<!--     <div id="green">green</div>
+    <div id="red">yellow</div> -->
+  </body>
+</html>
